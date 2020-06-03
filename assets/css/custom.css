@@ -8,6 +8,9 @@
 .bg-image{
 	
 	    background-image: url(../images/countdown-bg-3.jpg);
+        background-position: center !important;
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
 }
 
 .h1{
