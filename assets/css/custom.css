@@ -1,0 +1,15 @@
+/* Add here all your css styles (customizations) */
+
+.colorful-bg {
+    background-repeat: no-repeat;
+    background-image: url(../images/color-bg-left-bottom.png), url(../images/color-bg-right-bottom.png), url(../images/color-bg-right-top.png);
+    background-position: 0 100%, 100% 100%, 100% 0;
+}
+.bg-image{
+	
+	    background-image: url(../images/countdown-bg-3.jpg);
+}
+
+.h1{
+	font-weight: bold;
+}
